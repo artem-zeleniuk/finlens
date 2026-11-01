@@ -1,0 +1,8 @@
+# Generated data and indexes (FiQA is downloaded by prepare_dataset.py)
+data/
+indexes/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
